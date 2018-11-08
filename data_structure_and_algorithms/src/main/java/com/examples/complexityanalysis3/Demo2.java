@@ -1,5 +1,5 @@
 
-package com.examples.complexityanalysis1;
+package com.examples.complexityanalysis3;
 
 /**
  * @author zhangmengc
